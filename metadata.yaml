@@ -1,0 +1,32 @@
+_repo: Over-the-Santa-Fe-Trail-1857_72461
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Napton, William Barclay
+    alias: Napton, W. B. (William Barclay)
+    birthdate: 1839
+    deathdate: 1913
+    gutenberg_agent_id: '56691'
+    url: http://www.gutenberg.org/2009/agents/56691
+description: ''
+gutenberg_issued: '2023-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72461'
+language: en
+pgterms:marc904: https://archive.org/details/oversantafetrail00naptrich/page/n9/mode/2up
+pgterms:marc905: 20221226035900napton
+pgterms:marc906: '1905'
+pgterms:marc907: us
+production_note: Sonya Schermann and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bFranklin Hudson Publishing Co., $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Santa Fe National Historic Trail'
+- !lcc 'F786'
+- GITenberg
+title: Over the Santa Fé Trail, 1857
+url: http://www.gutenberg.org/ebooks/72461
